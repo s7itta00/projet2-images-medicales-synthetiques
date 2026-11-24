@@ -1,0 +1,4 @@
+experience,precision_globale,precision_equilibree,rappel_classe3,f1_classe3
+TRTR : vraies -> test vraies (référence),0.745,0.514,0.087,0.148
+TSTR : CVAE -> test vraies,0.531,0.394,0.0,0.0
+TSTR : GAN -> test vraies,0.617,0.234,0.0,0.0

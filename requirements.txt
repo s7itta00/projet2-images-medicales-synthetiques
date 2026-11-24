@@ -1,0 +1,10 @@
+torch
+torchvision
+medmnist>=3.0
+numpy
+pandas
+matplotlib
+scikit-learn
+torchmetrics[image]
+gradio
+pillow

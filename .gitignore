@@ -1,0 +1,15 @@
+# Modèles entraînés (trop lourds -> Google Drive)
+*.pt
+*.pth
+*.ckpt
+
+# Données (téléchargées automatiquement par le notebook)
+*.npz
+data/raw/
+
+# Vidéos lourdes (-> lien Google Drive dans le README)
+*.mp4
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
